@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Pro iPhone Development with Swift 4*](http://www.apress.com/9781484233801) by 978-1-4842-3381-8 (Apress, Molly Maskrey; Wallace Wang).
+This repository accompanies [*Pro iPhone Development with Swift 4*](http://www.apress.com/9781484233801) by Molly Maskrey and Wallace Wang (Apress, 2018).
 
 [comment]: #cover
 ![Cover image](9781484233801.jpg)
